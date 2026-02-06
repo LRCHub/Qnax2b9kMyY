@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "R.I.P.",
+  "base_artist": "Enfants",
+  "createdAt": "2026-02-06T22:00:13.105895Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What Up Cousin (R.I.P. Nick)",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/01_What_Up_Cousin_(R.I.P._Nick)_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "J.P.R.I.P.",
+      "artist": "Stars of the Lid",
+      "has_synced": false,
+      "path": "select/02_J.P.R.I.P._Stars_of_the_Lid.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "R.I.P. (feat. Tinie Tempah)",
+      "artist": "Rita Ora feat. Tinie Tempah",
+      "has_synced": true,
+      "path": "select/03_R.I.P._(feat._Tinie_Tempah)_Rita_Ora_feat._Tinie_Tempah.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "R.I.P.",
+      "artist": "Rita Ora feat Tinie Tempah",
+      "has_synced": true,
+      "path": "select/04_R.I.P._Rita_Ora_feat_Tinie_Tempah.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "R.I.P.",
+      "artist": "September",
+      "has_synced": true,
+      "path": "select/05_R.I.P._September.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "R.I.P. (Delta Heavy Dubstep remix)",
+      "artist": "Rita Ora feat. Tinie Tempah",
+      "has_synced": true,
+      "path": "select/06_R.I.P._(Delta_Heavy_Dubstep_remix)_Rita_Ora_feat._Tinie_Tempah.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "R.I.P. (Gregor Salto remix)",
+      "artist": "Rita Ora feat. Tinie Tempah",
+      "has_synced": false,
+      "path": "select/07_R.I.P._(Gregor_Salto_remix)_Rita_Ora_feat._Tinie_Tempah.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "R.I.P. (feat. Tinie Tempah) - Seamus Haji Remix",
+      "artist": "Rita Ora feat. Tinie Tempah & Seamus Haji",
+      "has_synced": false,
+      "path": "select/08_R.I.P._(feat._Tinie_Tempah)_-_Seamus_Haji_Remix_Rita_Ora_feat._Tinie_Tempah_&_Seamus_Haji.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "R.I.P. (feat. Tinie Tempah)",
+      "artist": "Rita Ora",
+      "has_synced": true,
+      "path": "select/09_R.I.P._(feat._Tinie_Tempah)_Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "R.I.P. Burn Face",
+      "artist": "CocoRosie",
+      "has_synced": true,
+      "path": "select/10_R.I.P._Burn_Face_CocoRosie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "R.I.P.",
+      "artist": "Birdman",
+      "has_synced": true,
+      "path": "select/11_R.I.P._Birdman.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "R.I.P. (feat. Ashnikko)",
+      "artist": "Brooke Candy feat. Ashnikko",
+      "has_synced": true,
+      "path": "select/12_R.I.P._(feat._Ashnikko)_Brooke_Candy_feat._Ashnikko.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "R.I.P. (feat. Ashnikko)",
+      "artist": "Brooke Candy",
+      "has_synced": true,
+      "path": "select/13_R.I.P._(feat._Ashnikko)_Brooke_Candy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Talons - Phones R.I.P Mix",
+      "artist": "Bloc Party",
+      "has_synced": false,
+      "path": "select/14_Talons_-_Phones_R.I.P_Mix_Bloc_Party.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Talons (Phones R.I.P Mix)",
+      "artist": "Bloc Party",
+      "has_synced": false,
+      "path": "select/15_Talons_(Phones_R.I.P_Mix)_Bloc_Party.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Knife and a Fork/R.I.P.",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/16_A_Knife_and_a_Fork_R.I.P._Information_Society.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "R.I.P.",
+      "artist": "Sacred Rite",
+      "has_synced": false,
+      "path": "select/17_R.I.P._Sacred_Rite.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Maggie May (R.I.P. Faith)",
+      "artist": "Hieroglyphics",
+      "has_synced": false,
+      "path": "select/18_Maggie_May_(R.I.P._Faith)_Hieroglyphics.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "R.I.P. (Rest In Pain)",
+      "artist": "Sepultura",
+      "has_synced": true,
+      "path": "select/19_R.I.P._(Rest_In_Pain)_Sepultura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "R.I.P.",
+      "artist": "Enfants",
+      "has_synced": false,
+      "path": "select/pl_01_R.I.P._Enfants.txt"
+    }
+  ]
+}
